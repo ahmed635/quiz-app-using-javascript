@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make text bold", 
+        "answer_2": "To make text italic", 
+        "answer_3": "To add breakline", 
+        "answer_4": "To create horizontal line",
+        "right_answer": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attribute href",
+        "answer_1": "Yes", 
+        "answer_2": "No its for anchor tag <a>", 
+        "answer_3": "All elements has this attribute", 
+        "answer_4": "Answer 1 and 3 is right",
+        "right_answer": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make text bold", 
+        "answer_2": "To make text italic", 
+        "answer_3": "To add breakline", 
+        "answer_4": "To create horizontal line",
+        "right_answer": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attribute href",
+        "answer_1": "Yes", 
+        "answer_2": "No its for anchor tag <a>", 
+        "answer_3": "All elements has this attribute", 
+        "answer_4": "Answer 1 and 3 is right",
+        "right_answer": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make text bold", 
+        "answer_2": "To make text italic", 
+        "answer_3": "To add breakline", 
+        "answer_4": "To create horizontal line",
+        "right_answer": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attribute href",
+        "answer_1": "Yes", 
+        "answer_2": "No its for anchor tag <a>", 
+        "answer_3": "All elements has this attribute", 
+        "answer_4": "Answer 1 and 3 is right",
+        "right_answer": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make text bold", 
+        "answer_2": "To make text italic", 
+        "answer_3": "To add breakline", 
+        "answer_4": "To create horizontal line",
+        "right_answer": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attribute href",
+        "answer_1": "Yes", 
+        "answer_2": "No its for anchor tag <a>", 
+        "answer_3": "All elements has this attribute", 
+        "answer_4": "Answer 1 and 3 is right",
+        "right_answer": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make text bold", 
+        "answer_2": "To make text italic", 
+        "answer_3": "To add breakline", 
+        "answer_4": "To create horizontal line",
+        "right_answer": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attribute href",
+        "answer_1": "Yes", 
+        "answer_2": "No its for anchor tag <a>", 
+        "answer_3": "All elements has this attribute", 
+        "answer_4": "Answer 1 and 3 is right",
+        "right_answer": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "Why we use <br> element",
+        "answer_1": "To make text bold", 
+        "answer_2": "To make text italic", 
+        "answer_3": "To add breakline", 
+        "answer_4": "To create horizontal line",
+        "right_answer": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attribute href",
+        "answer_1": "Yes", 
+        "answer_2": "No its for anchor tag <a>", 
+        "answer_3": "All elements has this attribute", 
+        "answer_4": "Answer 1 and 3 is right",
+        "right_answer": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answer_1": "Putting it inside <b> tag", 
+        "answer_2": "Putting it inside <strong> tag", 
+        "answer_3": "customizing it with front-weight property in css", 
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    }
+]
