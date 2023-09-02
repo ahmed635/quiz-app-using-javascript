@@ -114,9 +114,6 @@ function addQuestion(obj, count) {
             // add answers to myInput
             myInput.dataset.answer = allAnswers[i - 1];
             
-            if (i === 1) {
-                myInput.checked = true;
-            }
             // create label
             let myLabel = document.createElement("label");
 
@@ -171,6 +168,7 @@ function showResults(count) {
         answersArea.remove();
         submitButton.remove();
         bullets.remove();
+        resultsContainer.style.display = 'block';
 
         if (rightAnswers > Math.floor(count / 2) && rightAnswers < count) {
             theResults = `<span class="good"> Good:</span> You have got ${rightAnswers} from ${count}`;
